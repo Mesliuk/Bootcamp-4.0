@@ -1172,8 +1172,7 @@
         }
     }
     public static void Main()
-    {
-        //ghhfgdhjg
+    {        
         bool continuar = true;
         while (continuar)
         {
